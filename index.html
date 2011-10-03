@@ -11,296 +11,7 @@
 <meta name="author" content="Dimitri Pommier">
 
 <!-- CSS Stylesheet -->
-<style type="text/css">
-body {
-	margin: 0px;
-	padding: 0px;
-	background: url("http://shokohsc.byethost7.com/images/bg_dark_blue.png");  
-	background-color: inherit;
-	font-size: 16px; 
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	color: #000;
-}
-
-a:link { 
-	text-decoration: underline;
-	color: #000;
-	font-weight: bold;
-}
-
-a:visited { 
-	text-decoration: underline;
-	color: #000;
-	font-weight: bold;
-}
-
-a:hover { 
-	text-decoration: underline;
-	color: #0066cc;
-	font-weight: bold;
-}
-
-a:active { 
-	text-decoration: underline;
-	color: #000;
-	font-weight: bold;
-}
-
-#wrapper	{
-	width: 965px;
-	margin: 0 auto;	
-}
-
-#content {
-	background-color: #eee;
-	width: 960px;
-	text-align: left;
-	overflow: auto;
-	position: relative;
-	margin: 25px 0px 25px 0px;
-	border: #fff solid 2px;
-}
-
-.clear	{
-	float: none;
-	clear: both;
-	margin: 20px 0px 20px 0px;
-}
-
-#contact-details .header_1 {
-	float: left;
-	width: 350px;
-	text-align: center;
-	margin: 40px 0px 0px 20px;
-}
-
-#contact-details .header_1 img {
-	border: #fff solid 4px;
-	background: url("http://shokohsc.byethost7.com/images/bg_img_dark_blue.png"); 
-	padding: 16px;
-	margin: 10px 0px 0px 0px;
-}
-
-#contact-details .header_2 {
-	float: left;
-	width: 570px;
-	margin: 40px 0px 0px 10px;
-}
-
-#contact-details .header_2 a {
-	font-weight: normal;
-}
-
-#contact-details  h1	{
-	margin: 0px 0px 0px 20px;
-	font-size: 52px;
-	font-weight: bold;
-}
-
-#contact-details  h3	{
-	margin: 0px 0px 32px 20px;
-	font-size: 30px;
-	font-weight: bold;
-	font-style: italic;
-}
-
-#contact-details ul.info_1	{
-	list-style: none;
-	margin: 0px 0px 0px -12px;
-	font-size: 18px;
-}
-
-#contact-details ul.info_2	{
-	list-style: none;
-	margin: 0px 0px 15px -12px;
-	font-size: 18px;
-}
-
-#contact-details li.address	{
-    background: url("http://shokohsc.byethost7.com/images/home.png") no-repeat;
-	background-position: 0px 0px;
-    padding: 0px 0px 12px 40px;
-}
-
-#contact-details li.phone	{
-    background: url("http://shokohsc.byethost7.com/images/phone.png") no-repeat;
-	background-position: 0px 0px;
-    padding: 0px 0px 12px 40px;
-}
-
-#contact-details li.email	{
-    background: url("http://shokohsc.byethost7.com/images/mail.png") no-repeat;
-	background-position: 0px 0px;
-    padding: 0px 0px 12px 40px;
-}
-
-#contact-details li.site_url	{
-    background: url("http://shokohsc.byethost7.com/images/computer.png") no-repeat;
-	background-position: 0px 2px;
-    padding: 0px 0px 12px 40px;
-}
-
-#contact-details li.twitter	{
-    background: url("http://shokohsc.byethost7.com/images/twitter_sm.png") no-repeat;
-	background-position: 0px 0px;
-    padding: 0px 0px 12px 40px;
-}
-
-h2.top	{
-	margin: 0px; 
-	font-size: 22px;
-	font-weight: bold;
-}
-
-h2	{
-	margin: 40px 0px 0px 0px; 
-	font-size: 22px;
-	font-weight: bold;
-}
-
-
-dl	{
-	margin: 0px 20px 0px 0px;
-}
-
-
-dt	{
-	float: left;
-	width: 200px;
-	font-size: 20px;
-	font-weight: bold;
-	font-style: italic;
-	text-align: right;
-}
-
-dd	{
-	width: 620px; 
-	float: right;
-	margin-right: 20px;
-}
-
-dl#contact 	{
-	margin: 0px;
-}
-
-dt#contact 	{
-	margin: 0px;
-}
-
-dd#contact 	{
-	margin: 0px;
-}
-
-p.bus1	{
-	margin: 0px;
-	font-weight: bold;
-	color: #0066cc;
-}
-
-p.edu-info	{
-	margin: 10px 0px 0px 0px;
-	font-weight: bold;
-	color: #0066cc;
-}
-
-p.edu-info a	{
-	color: #000;
-}
-
-p.edu-info a:hover	{
-	color: #0066cc;
-}
-
-p.time	{
-	margin: 0px;
-}
-
-p.summary	{
-	margin: 10px 0px 0px 0px;
-}
-
-
-#skills ul.list1	{	
-	float: left;
-	list-style: none;
-	margin: 0px 0px 0px -40px;
-	width: 220px;
-}
-
-#skills ul.list2	{	
-	float: left;
-	list-style: none;
-	margin: 0px 0px 0px 0px;
-	width: 220px;
-}
-
-#skills li {
-    background: url("http://shokohsc.byethost7.com/images/bullet_blue.png") no-repeat;
-	background-position: 0px 2px;
-    padding: 0px 0px 0px 25px;
-}
-
-abbr	{
-	border-width: 0px;
-}
-
-#footer	{
-	margin: 60px 40px 0px 40px;
-}
-
-#footer	img {
-	border: 0px;
-}
-
-#footer .footer_content	{
-	width: 700px;
-	overflow: auto;
-	margin: auto;
-	border: #fff solid 2px;
-	background-color: #dcdcdc;
-}
-
-#footer ul.icons_1	{
-	float: left;
-	width: 525px;
-	margin: 15px 10px 10px 15px;
-	padding: 0px;
-}
-
-#footer ul.icons_2	{
-	float: right;
-	width: 100px;
-	margin: 10px 20px 10px 10px;
-	padding: 0px;
-}
-
-#footer .icons_1 li, #footer .icons_2 li { 
-	margin: 0px 0px 0px 7px; 
-	padding: 0px; 
-	list-style-type: none; 
-	display: inline; 
-}
-
-#footer a	{
-	color: #000;
-}
-
-#footer a:hover	{
-	color: #0066cc;
-}
-
-#footer	.credits {
-	float: none;
-	clear: both;
-	margin: 10px 0px 20px 0px;
-	font-size: 12px;
-	text-align: center;
-}
-
-#footer	.credits a	{
-	font-weight: normal;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 
 <!--[if lt IE 9]> 
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -324,7 +35,7 @@ abbr	{
 
 <!-- Begin Profile Image Section -->
 <div class="header_1">
-<img src="http://shokohsc.byethost7.com/images/profile.jpg" itemprop="image" width="250" height="250" alt="Dimitri Pommier" />
+<img src="images/profile.jpg" itemprop="image" width="250" height="250" alt="Dimitri Pommier" />
 </div>
 <!-- End Profile Image Section -->
 
@@ -333,7 +44,7 @@ abbr	{
 
 <h1><span itemprop="name">Dimitri Pommier</span></h1>
 <h3><span itemprop="jobTitle">Web Developer</span>
-<a href="http://shokohsc.byethost7.com/resume.pdf" title="Download Resume PDF"><img src="http://shokohsc.byethost7.com/images/download.png" width="48" height="48" alt="Download Resume PDF" /></a>
+<a href="pdf/resume.pdf" title="Download Resume PDF"><img src="images/pdf.png" width="32" height="32" alt="Download Resume PDF" /></a>
 </h3>
 
 <!-- Begin PostalAddress Schema -->
@@ -363,7 +74,7 @@ abbr	{
 
 <div class="clear">&nbsp;</div>
 
-<!-- Begin Profile Section 
+<!-- Begin Profile Section -->
 <dl>
 <dt>Profile:</dt>
 <dd>
@@ -374,9 +85,9 @@ Hello, fond of web technologies, I'm eager to learn more about web development m
 
 </dd>
 </dl>
-<!-- End Profile Section 
+<!-- End Profile Section -->
 
-<div class="clear">&nbsp;</div> -->
+<div class="clear">&nbsp;</div>
 
 <!-- Begin Skills Section -->
 <div itemscope itemtype="http://schema.org/ItemList">
@@ -412,8 +123,6 @@ Hello, fond of web technologies, I'm eager to learn more about web development m
 <!-- Begin Experience Section -->
 <dl>
 <dt>Experience:</dt>
-
-
 
 <dd>
 
@@ -510,27 +219,27 @@ Along with a web designer, I created html and css pages, some of them, coming fr
 <ul class="icons_1">
 <li><a rel="author" itemprop="url" href="https://plus.google.com/109174791432595047858" title="Google Profile"><img src="http://www.google.com/images/icons/ui/gprofile_button-32.png" width="32" height="32" alt="Google Profile"></a></li>
 
-<li><a rel="me" itemprop="url" href="http://fr.linkedin.com/pub/pommier-dimitri/21/306/a32" title="LinkedIn"><img src="http://shokohsc.byethost7.com/images/linkedin.png" width="32" height="32" alt="LinkedIn" /></a></li>
-<li><a rel="me" itemprop="url" href="http://http://fr-fr.facebook.com/people/Dimitri-Pommier/663542532" title="Facebook"><img src="http://shokohsc.byethost7.com/images/facebook.png" width="32" height="32" alt="Facebook" /></a></li>
-<li><a rel="me" itemprop="url" href="https://twitter.com/#!/shokohsc" title="Follow Me on Twitter!"><img src="http://shokohsc.byethost7.com/images/twitter.png" width="32" height="32" alt="Follow Me on Twitter!" /></a></li>
-<li><a rel="me" itemprop="url" href="http://6hours.wordpress.com/" title="Wordpress"><img src="http://shokohsc.byethost7.com/images/wordpress.png" width="32" height="32" alt="Wordpress" /></a></li>
+<li><a rel="me" itemprop="url" href="http://fr.linkedin.com/pub/pommier-dimitri/21/306/a32" title="LinkedIn"><img src="images/linkedin.png" width="32" height="32" alt="LinkedIn" /></a></li>
+<li><a rel="me" itemprop="url" href="http://http://fr-fr.facebook.com/people/Dimitri-Pommier/663542532" title="Facebook"><img src="images/facebook.png" width="32" height="32" alt="Facebook" /></a></li>
+<li><a rel="me" itemprop="url" href="https://twitter.com/#!/shokohsc" title="Follow Me on Twitter!"><img src="images/twitter.png" width="32" height="32" alt="Follow Me on Twitter!" /></a></li>
+<li><a rel="me" itemprop="url" href="http://6hours.wordpress.com/" title="Wordpress"><img src="images/wordpress.png" width="32" height="32" alt="Wordpress" /></a></li>
 </ul>
 
 <ul class="icons_2">
-<li><a href="http://shokohsc.byethost7.com/resume.pdf" title="Download Resume PDF"><img src="http://shokohsc.byethost7.com/images/download.png" width="48" height="48" alt="Download Resume PDF" /></a></li>
+<li><a href="pdf/resume.pdf" title="Download Resume PDF"><img src="images/pdf.png" width="32" height="32" alt="Download Resume PDF" /></a></li>
 </ul>
 
 </div>
 <!-- End Social Media and Download Links -->
 
 </div>
-<!-- End Footer Content 
+<!-- End Footer Content -->
 
 <div class="credits">
 Social Icons by <a href="http://paulrobertlloyd.com/2009/06/social_media_icons" target="_blank" title="Paul Robert Lloyd">Paul Robert Lloyd</a>, Profile &amp; Download Icons by <a href="http://dryicons.com/" target="_blank" title="DryIcons">DryIcons</a>, Phone Icon by <a href="http://www.comfi.com/telecom-icons/" target="_blank" title="ComFi Telecom">ComFi Telecom</a>, Profile Image User Symbol by <a href="http://thenounproject.com/" target="_blank" title="The Noun Project">The Noun Project</a>.
 <br />
 All used under a Creative Commons Attribution-ShareAlike license: <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank" title="Creative Commons Attribution-ShareAlike license">http://creativecommons.org/licenses/by-sa/3.0/</a>
-</div> -->
+</div>
 
 </footer>
 <!-- End Footer -->
