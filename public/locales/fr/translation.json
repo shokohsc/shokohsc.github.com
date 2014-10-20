@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "resume"
+  },
+  "title": "CV en ligne Dimitri Pommier",
+  "position": "Développeur Web",
+
+  "section": {
+    "skills": "Compétences:",
+    "experience": "Expérience:",
+    "education": "Formation:"
+  },
+  "position0": {
+    "job": "Développeur Web",
+    "time": "Juillet 2014 à Maintenant",
+    "description": "Maintenance & développement d'applications de formulaire d'étude clinique."
+  },
+  "position1": {
+    "job": "Visa Vacances Travail Australie",
+    "time": "Janvier 2013 à Mai 2014",
+    "description": "Visite de la côte est à partir de Brisbane jusqu'à Cairns, j'ai ensuite passé quelques mois à Tokyo au Japon, avant de rentrer en France."
+  },
+  "position2": {
+    "job": "Développeur Web",
+    "time": "Octobre 2011 à Novembre 2012",
+    "description": "Développement d'une application interne permettant de récupérer des données publiques sur des réseaux sociaux comme Facebook et Twitter via leur API."
+  },
+  "position3": {
+    "job": "Développeur Web",
+    "time": "Juillet 2011 à Septembre 2011",
+    "description": "Développement d'une application interne de gestion de fournisseurs, comptes bancaires et création de fichier xml pour virements bancaires SEPA."
+  },
+  "position4": {
+    "job": "Web Intégrateur",
+    "time": "Février 2011 à Mars 2011",
+    "description": "Aidé un blogueur à mettre en production son blog wordpress, de la recherche d'hébergeur internet aux directives du thème du designer web."
+  },
+  "education0": {
+    "time": "2011 à 2012",
+    "focus": "Programmation"
+  },
+  "education1": {
+    "time": "2007 à 2009",
+    "focus": "Programmation"
+  }
+}

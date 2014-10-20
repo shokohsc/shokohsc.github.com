@@ -1,0 +1,46 @@
+{
+  "app": {
+    "name": "resume"
+  },
+  "title": "Online Resume of Dimitri Pommier",
+  "position": "Web Developer",
+
+  "section": {
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education"
+  },
+  "position0": {
+    "job": "Web Developer",
+    "time": "July 2014 to Now",
+    "description": "Maintening & developing CRO applications."
+  },
+  "position1": {
+    "job": "Working Holiday Visa Australia",
+    "time": "January 2013 to May 2014",
+    "description": "Visited the east coast from Brisbane to Cairns, then I spent some months in Tokyo, Japan before heading back to France."
+  },
+  "position2": {
+    "job": "Web Developer",
+    "time": "October 2011 to November 2012",
+    "description": "Developed an intern application scrapping social media datas on social websites such as Facebook and Twitter via their APIs."
+  },
+  "position3": {
+    "job": "Web Developer",
+    "time": "July 2011 to September 2011",
+    "description": "Developed an intern web application managing providers, bank accounts and creating xml files for SEPA bank wire transfers."
+  },
+  "position4": {
+    "job": "Web Integrator",
+    "time": "February 2011 to March 2011",
+    "description": "Helped an blogger build his wordpress blog up, from looking for the best web hosting according his demands to the implementation of the web designer's styled theme."
+  },
+  "education0": {
+    "time": "2011 to 2012",
+    "focus": "Programming"
+  },
+  "education1": {
+    "time": "2007 to 2009",
+    "focus": "Programming"
+  }
+}
