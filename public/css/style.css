@@ -244,14 +244,21 @@ p.summary	{
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px -40px;
-	width: 220px;
+	/*width: 220px;*/
 }
 
 #skills ul.list2	{	
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px 0px;
-	width: 220px;
+	/*width: 220px;*/
+}
+
+#skills ul.list3	{	
+	float: left;
+	list-style: none;
+	margin: 0px 0px 0px 0px;
+	/*width: 220px;*/
 }
 
 #skills li {
