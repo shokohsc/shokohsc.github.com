@@ -244,27 +244,47 @@ p.summary	{
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px -40px;
-	/*width: 220px;*/
 }
 
 #skills ul.list2	{	
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px 0px;
-	/*width: 220px;*/
 }
 
 #skills ul.list3	{	
 	float: left;
 	list-style: none;
 	margin: 0px 0px 0px 0px;
-	/*width: 220px;*/
+}
+
+#skills ul.list4	{	
+	float: left;
+	list-style: none;
+	margin: 0px 0px 0px 0px;
 }
 
 #skills li {
     background: url("../images/bullet_blue.png") no-repeat;
 	background-position: 0px 2px;
     padding: 0px 0px 0px 25px;
+}
+
+#skills li a{
+	text-decoration: none;
+	color: #000;
+	font-weight: normal;
+}
+
+#education div.educationProp{
+	float: left;
+	width: 50%;
+}
+
+#experience p a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #0066cc;
 }
 
 abbr	{
