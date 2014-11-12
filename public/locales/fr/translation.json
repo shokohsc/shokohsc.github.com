@@ -40,6 +40,10 @@
     "focus": "Programmation"
   },
   "education1": {
+    "time": "2011",
+    "focus": "Programmation"
+  },
+  "education2": {
     "time": "2007 à 2009",
     "focus": "Programmation"
   }
