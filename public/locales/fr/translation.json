@@ -11,6 +11,11 @@
     "experience": "Professionnel",
     "education": "Formation"
   },
+  "skills-headers": {
+    "language": "Langages",
+    "framework": "Frameworks",
+    "server": "Serveurs"
+  },
   "position5": {
     "job": "Développeur Web",
     "time": "Février 2015 à Mai 2015",

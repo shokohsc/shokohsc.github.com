@@ -11,6 +11,11 @@
     "experience": "Employment",
     "education": "Education"
   },
+  "skills-headers": {
+    "language": "Languages",
+    "framework": "Frameworks",
+    "server": "Servers"
+  },
   "position5": {
       "job": "Web Developer",
     "time": "February 2015 to May 2015",
