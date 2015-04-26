@@ -6,16 +6,23 @@
   "position": "Développeur Web",
 
   "section": {
-    "skills": "Compétences:",
-    "experience": "Expérience:",
-    "education": "Formation:"
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "education": "Formation"
   },
-  "position0": {
+  "position5": {
+    "job": "Développeur Web",
+    "time": "Février 2015 à Mai 2015",
+    "company": "Disko",
+    "description": "Développement d'applications facebook & de sites web symfony 2."
+  },
+  "position4": {
     "job": "Développeur Web",
     "time": "Juillet 2014 à Novembre 2014",
+    "company": "Clinfile",
     "description": "Maintenance & développement d'applications de formulaire d'étude clinique."
   },
-  "position1": {
+  "position3": {
     "job": "Visa Vacances Travail Australie",
     "time": "Janvier 2013 à Mai 2014",
     "description": "Visite de la côte est à partir de Brisbane jusqu'à Cairns, j'ai ensuite passé quelques mois à Tokyo au Japon avant de rentrer en France."
@@ -23,28 +30,34 @@
   "position2": {
     "job": "Développeur Web",
     "time": "Octobre 2011 à Novembre 2012",
+    "company": "Blog Angels",
     "description": "Développement d'une application interne permettant de récupérer des données publiques sur des réseaux sociaux comme Facebook et Twitter via leur API."
   },
-  "position3": {
+  "position1": {
     "job": "Développeur Web",
     "time": "Juillet 2011 à Septembre 2011",
+    "company": "CCVRP",
     "description": "Développement d'une application interne de gestion de fournisseurs, comptes bancaires et création de fichier xml pour virements bancaires SEPA."
   },
-  "position4": {
+  "position0": {
     "job": "Intégrateur Web",
     "time": "Février 2011 à Mars 2011",
+    "company": "Tropicalizer",
     "description": "Aidé un blogueur à mettre en production son blog wordpress, de la recherche d'hébergeur internet aux directives du thème du designer web."
   },
-  "education0": {
+  "education2": {
     "time": "2011 à 2012",
+    "school": "Cifacom",
     "focus": "Programmation"
   },
   "education1": {
     "time": "2011",
+    "school": "GRETA 93",
     "focus": "Programmation"
   },
-  "education2": {
+  "education0": {
     "time": "2007 à 2009",
+    "school": "Epitech",
     "focus": "Programmation"
   }
 }

@@ -7,15 +7,22 @@
 
   "section": {
     "skills": "Skills",
-    "experience": "Experience",
+    "experience": "Employment",
     "education": "Education"
   },
-  "position0": {
+  "position5": {
+      "job": "Web Developer",
+    "time": "February 2015 to May 2015",
+    "company": "Disko",
+    "description": "Facebook applications & backend websites development."
+  },
+  "position4": {
     "job": "Web Developer",
     "time": "July 2014 to November 2014",
+    "company": "Clinfile",
     "description": "Maintening & developing CRO applications."
   },
-  "position1": {
+  "position3": {
     "job": "Working Holiday Visa Australia",
     "time": "January 2013 to May 2014",
     "description": "Visited the east coast from Brisbane to Cairns, then I spent some months in Tokyo, Japan before heading back to France."
@@ -23,28 +30,34 @@
   "position2": {
     "job": "Web Developer",
     "time": "October 2011 to November 2012",
+    "company": "Blog Angels",
     "description": "Developed an intern application scrapping social media datas on social websites such as Facebook and Twitter via their APIs."
   },
-  "position3": {
+  "position1": {
     "job": "Web Developer",
     "time": "July 2011 to September 2011",
+    "company": "CCVRP",
     "description": "Developed an intern web application managing providers, bank accounts and creating xml files for SEPA bank wire transfers."
   },
-  "position4": {
+  "position0": {
     "job": "Web Integrator",
     "time": "February 2011 to March 2011",
+    "company": "Tropicalizer",
     "description": "Helped an blogger build his wordpress blog up, from looking for the best web hosting according his demands to the implementation of the web designer's styled theme."
   },
-  "education0": {
+  "education2": {
     "time": "2011 to 2012",
+    "school": "Cifacom",
     "focus": "Programming"
   },
   "education1": {
     "time": "2011",
+    "school": "GRETA 93",
     "focus": "Programming"
   },
-  "education2": {
+  "education0": {
     "time": "2007 to 2009",
+    "school": "Epitech",
     "focus": "Programming"
   }
 }

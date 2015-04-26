@@ -5,11 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title data-i18n="title"></title>
 
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
 
     <link rel="stylesheet" type="text/css" href="public/css/main.css">
 
@@ -23,31 +25,138 @@
   <body>
     <div class="side"></div>
 
-    <div id="content" class="row">
-      <div class="col-xs-4 col-xs-offset-8">(+33) 6 48 06 81 30 / pommier.dimitri[at]gmail.com</div>
+    <div class="container">
+        <div class="row">
+          <div class="col-xs-9 col-xs-offset-3">
+            <h1><strong><span class="side-color">Pommier</span> Dimitri</strong> <small>(+33) 6 48 06 81 30 / pommier.dimitri[at]gmail.com</small></h1>
+          </div>
 
-      <div class="col-xs-9 col-xs-offset-3">
-        <h1><span class="first-name">POMMIER</span> Dimitri</h1>
-        <p>Lorem ipsum</p>
-        <p>Lorem ipsum</p>
-        <p>Lorem ipsum</p>
+          <div class="col-xs-12 section">
+            <h4 data-i18n="section.skills"></h4>
+            <div class="job row">
+                <div class="col-xs-9 col-xs-offset-3">
+                    <div class="row">
+                        <ul class="col-xs-3 list-unstyled">
+                            <li>PHP</li>
+                            <li>MySQL</li>
+                            <li>HTML</li>
+                        </ul>
+                        <ul class="col-xs-3 list-unstyled">
+                            <li>Symfony2</li>
+                            <li>Git</li>
+                            <li>JQuery</li>
+                        </ul>
+                        <ul class="col-xs-3 list-unstyled">
+                            <li>JavaScript</li>
+                            <li>Bootstrap</li>
+                            <li>MongoDB</li>
+                        </ul>
+                        <ul class="col-xs-3 list-unstyled">
+                            <li>CSS</li>
+                            <li>FacebookAPI</li>
+                            <li>TwitterAPI</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 section">
+            <h4 data-i18n="section.experience"></h4>
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position5.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position5.job"></span> - <span data-i18n="position5.company"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position5.description"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position4.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position4.job"></span> - <span data-i18n="position4.company"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position4.description"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position3.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position3.job"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position3.description"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position2.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position2.job"></span> - <span data-i18n="position2.company"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position2.description"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position1.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position1.job"></span> - <span data-i18n="position1.company"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position1.description"></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="position0.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="position0.job"></span> - <span data-i18n="position0.company"></span></h6>
+                    <ul class="list-unstyled">
+                        <li data-i18n="position0.description"></li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-xs-12 section">
+            <h4 data-i18n="section.education"></h4>
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="education2.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="education2.school"></span> - <span data-i18n="education2.focus"></span></h6>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="education1.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="education1.school"></span> - <span data-i18n="education1.focus"></span></h6>
+                </div>
+            </div>
+
+            <div class="job row">
+                <div class="date col-xs-3"><h6 data-i18n="education0.time"></h6></div>
+                <div class="description col-xs-9">
+                    <h6><span class="title side-color" data-i18n="education0.school"></span> - <span data-i18n="education0.focus"></span></h6>
+                </div>
+            </div>
+          </div>
+
+
       </div>
     </div>
 
-    <div class="employment col-xs-10 col-xs-offset-1">
-      <h2>Employment</h2>
-      <ul>
-        <li>
-          <span style="color:white;">2011-2012</span>
-        </li>
-        <li>
-          <span style="color:white;">2011-2012</span>
-        </li>
-        <li>
-          <span style="color:white;">2011-2012</span>
-        </li>
-      </ul>
-    </div>
+    <!-- JQuery -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!-- I18next.js -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/i18next/1.6.3/i18next-1.6.3.min.js"></script>
+    <script type="text/javascript" src="public/js/resume.js"></script>
 
   </body>
 </html>

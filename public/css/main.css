@@ -1,24 +1,49 @@
 body {
   background: linear-gradient(
     to right,
-    #58B1B9 0%,
-    #58B1B9 25%,
+    #00AA90 0%,
+    #00AA90 25%,
     white 25%,
     white 100%
   );
   height: 100%;
   width: 100%;
 
-  font-family: sans-serif;
-  line-height: 150%;
-  /*text-shadow: 0 2px 2px #1f1f1f;*/
+  font-family: 'Open Sans', sans-serif;
+  font-variant: small-caps;
+  color: #003E91;
 }
-
-.first-name {
-  color: #58B1B9;
+a {
+    color: #003E91;
 }
-
-.employment>h2{
-  color: white;
-  border-bottom: #003171 solid 2px;
+.side-color {
+  color: #00AA90;
+}
+.section h4 {
+    color: white;
+    text-transform: uppercase;
+    border-bottom: #003E91 solid 2px;
+    padding-bottom: 10px;
+}
+.title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.job {
+    display: block;
+    padding-bottom: 10px;
+}
+.date {
+    color: white;
+    display: inline-block;
+}
+.date h6{
+    text-align: right;
+    padding-right:10%;
+}
+.description {
+    display: inline-block;
+}
+.list-unstyled {
+    list-style-type: none;
 }
