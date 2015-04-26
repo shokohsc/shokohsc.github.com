@@ -1,8 +1,8 @@
 .container {
     background: linear-gradient(
         to right,
-        #008B8D 0%,
-        #008B8D 25%,
+        #C3272B 0%,
+        #C3272B 25%,
         white 25%,
         white 100%
     );
@@ -11,18 +11,18 @@
 
     font-family: 'Open Sans', sans-serif;
     font-variant: small-caps;
-    color: #005572;
+    color: #222;
 }
 a {
-    color: #005572;
+    color: #222;
 }
 .side-color {
-    color: #008B8D;
+    color: #C3272B;
 }
 .section h4 {
     color: white;
     text-transform: uppercase;
-    border-bottom: #005572 solid 2px;
+    border-bottom: black solid 2px;
     padding-bottom: 10px;
 }
 .title {
