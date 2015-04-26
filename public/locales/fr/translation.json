@@ -6,32 +6,28 @@
   "position": "Développeur Web",
 
   "section": {
-    "personnal": "Personnel",
+    "personnal": "Projets Personnels",
     "skills": "Compétences",
-    "experience": "Professionnel",
-    "education": "Formation"
+    "experience": "Expériences Professionnelles",
+    "education": "Formation",
+    "extra": "Divers"
   },
   "skills-headers": {
     "language": "Langages",
-    "framework": "Frameworks",
-    "server": "Serveurs"
-  },
-  "position5": {
-    "job": "Développeur Web",
-    "time": "Février 2015 à Mai 2015",
-    "company": "Disko",
-    "description": "Développement d'applications facebook & de sites web symfony 2."
+    "framework": "Frameworks | SDK | Librairies",
+    "server": "Serveurs | Outils"
   },
   "position4": {
     "job": "Développeur Web",
-    "time": "Juillet 2014 à Novembre 2014",
-    "company": "Clinfile",
-    "description": "Maintenance & développement d'applications de formulaire d'étude clinique."
+    "time": "Février 2015 à Mai 2015",
+    "company": "Disko",
+    "description": "Développement d'applications facebook & de sites web symfony 2. Ateliers Jenkins & Docker, Participations & Améliorations des librairies internes. Déploiement aidé par Capifony."
   },
   "position3": {
-    "job": "Visa Vacances Travail Australie",
-    "time": "Janvier 2013 à Mai 2014",
-    "description": "Visite de la côte est à partir de Brisbane jusqu'à Cairns, j'ai ensuite passé quelques mois à Tokyo au Japon avant de rentrer en France."
+    "job": "Développeur Web",
+    "time": "Juillet 2014 à Novembre 2014",
+    "company": "Clinfile",
+    "description": "Maintenance & développement d'applications de formulaire d'étude clinique réalisé à l'aide d'un générateur codé en PHP, HTML, CSS & Javascript. Gestion des tickets via Redmine."
   },
   "position2": {
     "job": "Développeur Web",
@@ -49,31 +45,36 @@
     "job": "Intégrateur Web",
     "time": "Février 2011 à Mars 2011",
     "company": "Tropicalizer",
-    "description": "Accompagné un blogueur à mettre en production son blog wordpress, de la recherche d'hébergeur internet aux directives du thème du designer web."
+    "description": "Accompagné un blogueur à mettre en production son blog wordpress, de la recherche d'hébergeur internet aux directives du thème du designer web. Intégration d'un design au thème Wordpress, création auprès d'un registrar du nom de domaine."
+  },
+  "extra0": {
+      "job": "Visa Vacances Travail Australie",
+      "time": "Janvier 2013 à Mai 2014",
+      "description": "Visite de la côte est à partir de Brisbane jusqu'à Cairns, j'ai ensuite passé quelques mois à Tokyo au Japon avant de rentrer en France."
   },
   "personnal1": {
       "title": "Bubbles",
       "website": "bubbles-comics.herokuapp.com",
-      "description": "entrainement à Symfony2."
+      "description": "Naviguer à travers tous les comics marvel par des appels REST à l'api marvel, comics de cette semaine, la semaine passée ou celle du mois prochain. Développé avec Bootstrap & Symfony2 et le bundle MarvelAPIBundle par octante. Hébergé chez Heroku."
   },
   "personnal0": {
       "title": "IreneIsland",
       "website": "Ireneisland.com",
-      "description": "entrainement à Three JS."
+      "description": "Entrainement à Three JS. Site à page unique permettant affichant un descriptif de l'image cliquée. Développé avec SlimPHP."
   },
   "education2": {
     "time": "2011 à 2012",
     "school": "Cifacom",
-    "focus": "Programmation"
+    "focus": "Programmation - HTML CSS PHP Javascript"
   },
   "education1": {
     "time": "2011",
     "school": "GRETA 93",
-    "focus": "Programmation"
+    "focus": "Programmation - HTML CSS PHP Java"
   },
   "education0": {
     "time": "2007 à 2009",
     "school": "Epitech",
-    "focus": "Programmation"
+    "focus": "Programmation - C HTML CSS PHP"
   }
 }
