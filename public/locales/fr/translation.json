@@ -6,8 +6,9 @@
   "position": "Développeur Web",
 
   "section": {
+    "personnal": "Personnel",
     "skills": "Compétences",
-    "experience": "Expérience",
+    "experience": "Professionnel",
     "education": "Formation"
   },
   "position5": {
@@ -44,6 +45,16 @@
     "time": "Février 2011 à Mars 2011",
     "company": "Tropicalizer",
     "description": "Aidé un blogueur à mettre en production son blog wordpress, de la recherche d'hébergeur internet aux directives du thème du designer web."
+  },
+  "personnal1": {
+      "title": "Bubbles",
+      "website": "bubbles-comics.herokuapp.com",
+      "description": "entrainement à Symfony2."
+  },
+  "personnal0": {
+      "title": "IreneIsland",
+      "website": "Ireneisland.com",
+      "description": "entrainement à Three JS."
   },
   "education2": {
     "time": "2011 à 2012",

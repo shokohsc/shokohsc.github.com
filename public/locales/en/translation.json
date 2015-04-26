@@ -6,6 +6,7 @@
   "position": "Web Developer",
 
   "section": {
+    "personnal": "Personnal",
     "skills": "Skills",
     "experience": "Employment",
     "education": "Education"
@@ -44,6 +45,16 @@
     "time": "February 2011 to March 2011",
     "company": "Tropicalizer",
     "description": "Helped an blogger build his wordpress blog up, from looking for the best web hosting according his demands to the implementation of the web designer's styled theme."
+  },
+  "personnal1": {
+      "title": "Bubbles",
+      "website": "bubbles-comics.herokuapp.com",
+      "description": "Symfony2 practice."
+  },
+  "personnal0": {
+      "title": "IreneIsland",
+      "website": "Ireneisland.com",
+      "description": "Three JS practice."
   },
   "education2": {
     "time": "2011 to 2012",
