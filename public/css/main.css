@@ -1,4 +1,4 @@
-body {
+.container {
   background: linear-gradient(
     to right,
     #00AA90 0%,
@@ -36,10 +36,7 @@ a {
 .date {
     color: white;
     display: inline-block;
-}
-.date h6{
     text-align: right;
-    padding-right:10%;
 }
 .description {
     display: inline-block;
