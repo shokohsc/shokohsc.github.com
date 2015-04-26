@@ -1,28 +1,28 @@
 .container {
-  background: linear-gradient(
-    to right,
-    #00AA90 0%,
-    #00AA90 25%,
-    white 25%,
-    white 100%
-  );
-  height: 100%;
-  width: 100%;
+    background: linear-gradient(
+        to right,
+        #008B8D 0%,
+        #008B8D 25%,
+        white 25%,
+        white 100%
+    );
+    height: 100%;
+    width: 100%;
 
-  font-family: 'Open Sans', sans-serif;
-  font-variant: small-caps;
-  color: #003E91;
+    font-family: 'Open Sans', sans-serif;
+    font-variant: small-caps;
+    color: #005572;
 }
 a {
-    color: #003E91;
+    color: #005572;
 }
 .side-color {
-  color: #00AA90;
+    color: #008B8D;
 }
 .section h4 {
     color: white;
     text-transform: uppercase;
-    border-bottom: #003E91 solid 2px;
+    border-bottom: #005572 solid 2px;
     padding-bottom: 10px;
 }
 .title {
