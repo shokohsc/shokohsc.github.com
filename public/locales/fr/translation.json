@@ -65,16 +65,16 @@
   "education2": {
     "time": "2011 à 2012",
     "school": "Cifacom",
-    "focus": "Programmation - HTML CSS PHP Javascript"
+    "focus": "Programmation - HTML, CSS, PHP, Javascript"
   },
   "education1": {
     "time": "2011",
     "school": "GRETA 93",
-    "focus": "Programmation - HTML CSS PHP Java"
+    "focus": "Programmation - HTML, CSS, PHP, Java"
   },
   "education0": {
     "time": "2007 à 2009",
     "school": "Epitech",
-    "focus": "Programmation - C HTML CSS PHP"
+    "focus": "Programmation - C, HTML, CSS, PHP"
   }
 }

@@ -1,3 +1,6 @@
+a {
+    color: #222;
+}
 .container {
     background: linear-gradient(
         to right,
@@ -13,13 +16,10 @@
     font-variant: small-caps;
     color: #222;
 }
-a {
-    color: #222;
-}
 .side-color {
     color: #C3272B;
 }
-.section h4 {
+.sector {
     color: white;
     text-transform: uppercase;
     border-bottom: black solid 2px;
