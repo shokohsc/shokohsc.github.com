@@ -21,7 +21,7 @@
       "job": "Web Developer",
     "time": "February 2015 to May 2015",
     "company": "Disko",
-    "description": "Facebook applications & backend websites development. Jenkins & Docker practice. Improving internal libraries. Capifony helped deploy."
+    ,"description": "Facebook applications & backend websites development. Jenkins & Docker practice. Improving internal libraries. Capifony helped deploy."
   },
   "position3": {
     "job": "Web Developer",
@@ -65,16 +65,16 @@
   "education2": {
     "time": "2011 to 2012",
     "school": "Cifacom",
-    "focus": "Programming - HTML CSS PHP Javascript"
+    "focus": "Programming - HTML, CSS, PHP, Javascript"
   },
   "education1": {
     "time": "2011",
     "school": "GRETA 93",
-    "focus": "Programming - HTML CSS PHP Java"
+    "focus": "Programming - HTML, CSS, PHP, Java"
   },
   "education0": {
     "time": "2007 to 2009",
     "school": "Epitech",
-    "focus": "Programming - C HTML CSS PHP"
+    "focus": "Programming - C, HTML, CSS, PHP"
   }
 }
