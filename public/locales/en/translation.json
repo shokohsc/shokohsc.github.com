@@ -17,11 +17,17 @@
     "framework": "Frameworks | SDK | Libraries",
     "server": "Servers | Tools"
   },
+  "position5": {
+    "job": "Backend Developer",
+    "time": "since July 2015",
+    "company": "IleoTech",
+    "description": "Symfony2 and Jquery ERP development."
+  },
   "position4": {
       "job": "Web Developer",
     "time": "February 2015 to May 2015",
     "company": "Disko",
-    ,"description": "Facebook applications & backend websites development. Jenkins & Docker practice. Improving internal libraries. Capifony helped deploy."
+    "description": "Facebook applications & backend websites development. Jenkins & Docker practice. Improving internal libraries. Capifony helped deploy."
   },
   "position3": {
     "job": "Web Developer",
