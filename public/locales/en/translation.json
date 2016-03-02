@@ -58,10 +58,15 @@
       "time": "January 2013 to May 2014",
       "description": "Visited the east coast from Brisbane to Cairns, then I spent some months in Tokyo, Japan before heading back to France."
   },
+  "personnal2": {
+      "title": "Tweetch",
+      "website": "tweetch.herokuapp.com",
+      "description": "Browsing through twitch video game content, streams and authenticated user. Built on RiotJs & Symfony2 using TwitchAPIBundle by myself. Hosted on Heroku."
+  },
   "personnal1": {
       "title": "Bubbles",
       "website": "bubbles-comics.herokuapp.com",
-      "description": "Browsing through all marvel comics via REST calls to marvel api, comics from this week, last week or the one next month. Built on Symfony2 using MarvelAPIBundle by Octante. Hosted on Heroku."
+      "description": "Browsing through all marvel comics via REST calls to marvel api, comics from this week, last week or the one next month. Built on RiotJs, Bootstrap & Symfony2 using MarvelAPIBundle by Octante. Hosted on Heroku."
   },
   "personnal0": {
       "title": "IreneIsland",
