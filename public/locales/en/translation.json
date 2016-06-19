@@ -21,7 +21,7 @@
     "job": "Backend Developer",
     "time": "since July 2015",
     "company": "IleoTech",
-    "description": "Symfony2 and Jquery ERP development."
+    "description": "Symfony2 and Jquery ERP development. Mobile API development with different AWS services (Api Gateway, Lambda, DynamoDB, SNS) & NodeJS"
   },
   "position4": {
       "job": "Web Developer",
