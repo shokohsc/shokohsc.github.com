@@ -17,11 +17,17 @@
     "framework": "Frameworks | SDK | Librairies",
     "server": "Serveurs | Outils"
   },
+  "position6": {
+    "job": "Développeur Backend",
+    "time": "depuis Janvier 2017",
+    "company": "Eleven Labs",
+    "description": "Participation au développement du projet partenaire de LaFourchette Tous au Restaurant 2017"
+  },
   "position5": {
     "job": "Développeur Backend",
-    "time": "depuis Juillet 2015",
+    "time": "Juillet 2015 à Novembre 2016",
     "company": "IleoTech",
-    "description": "Développement d'un ERP via Symfony2 et JQuery. Développement d'une API mobile grâce à différents services AWS (Api Gateway, Lambda, DynamoDB, SNS) et NodeJS"
+    "description": "Développement d'un ERP via Symfony2 et JQuery. Développement d'une API mobile grâce à différents services AWS (Api Gateway, Lambda, DynamoDB, SNS) et NodeJS. Développement d'une solution ETL en micro services PHP"
   },
   "position4": {
     "job": "Développeur Web",
