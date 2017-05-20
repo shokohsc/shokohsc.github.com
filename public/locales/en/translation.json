@@ -19,15 +19,15 @@
   },
   "position6": {
     "job": "Backend Developer",
-    "time": "since January 2017",
+    "time": "January 2017 to May 2017",
     "company": "Eleven Labs",
-    "description": "TheFork's Tous au Restaurant2017 product development"
+    "description": "TheFork's Tous au Restaurant2017 product development. FranceTv.fr product development."
   },
   "position5": {
     "job": "Backend Developer",
     "time": "July 2015 to November 2016",
     "company": "IleoTech",
-    "description": "Symfony2 and Jquery ERP development. Mobile API development with different AWS services (Api Gateway, Lambda, DynamoDB, SNS) & NodeJS. ETL micro services PHP solution development"
+    "description": "Symfony2 and Jquery ERP development. Mobile API development with different AWS services (Api Gateway, Lambda, DynamoDB, SNS) & NodeJS. ETL micro services PHP solution development."
   },
   "position4": {
       "job": "Web Developer",
