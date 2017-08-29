@@ -64,20 +64,15 @@
       "time": "Janvier 2013 à Mai 2014",
       "description": "Visite de la côte est à partir de Brisbane jusqu'à Cairns, j'ai ensuite passé quelques mois à Tokyo au Japon avant de rentrer en France."
   },
-  "personnal2": {
+  "personnal1": {
       "title": "Tweetch",
       "website": "tweetch.herokuapp.com",
       "description": "Naviguer à travers le contenu de twitch, jeux vidéos, flux en direct & authentification d'utilisateur. Développé avec RiotJs, Symfony2 et TwitchAPIBundle par moi même. Hébergé chez Heroku."
   },
-  "personnal1": {
+  "personnal0": {
       "title": "Bubbles",
       "website": "bubbles-comics.herokuapp.com",
       "description": "Naviguer à travers tous les comics marvel par des appels REST à l'api marvel, comics de cette semaine, la semaine passée ou celle du mois prochain. Développé avec RiotJs, Bootstrap & Symfony2 et le bundle MarvelAPIBundle par octante. Hébergé chez Heroku."
-  },
-  "personnal0": {
-      "title": "IreneIsland",
-      "website": "Ireneisland.com",
-      "description": "Entrainement à Three JS. Site à page unique permettant affichant un descriptif de l'image cliquée. Développé avec SlimPHP."
   },
   "education2": {
     "time": "2011 à 2012",
