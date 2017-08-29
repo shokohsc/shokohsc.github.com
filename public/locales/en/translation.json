@@ -74,11 +74,6 @@
       "website": "bubbles-comics.herokuapp.com",
       "description": "Browsing through all marvel comics via REST calls to marvel api, comics from this week, last week or the one next month. Built on RiotJs, Bootstrap & Symfony2 using MarvelAPIBundle by Octante. Hosted on Heroku."
   },
-  "personnal0": {
-      "title": "IreneIsland",
-      "website": "Ireneisland.com",
-      "description": "Three JS practice. Single page website showing affiliated description to the image being clicked. Built on SlimPHP."
-  },
   "education2": {
     "time": "2011 to 2012",
     "school": "Cifacom",
