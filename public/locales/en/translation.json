@@ -17,6 +17,12 @@
     "framework": "Frameworks | SDK | Libraries",
     "server": "Servers | Tools"
   },
+  "position7": {
+    "job": "Backend Developer",
+    "time": "September 2017",
+    "company": "Gamestream",
+    "description": "Symfony3 ERP solution development. Development, staging & production environments setup with Docker."
+  },
   "position6": {
     "job": "Backend Developer",
     "time": "January 2017 to May 2017",
