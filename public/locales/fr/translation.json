@@ -33,7 +33,7 @@
     "job": "Développeur Backend",
     "time": "Juillet 2015 à Novembre 2016",
     "company": "IleoTech",
-    "description": "Développement d'un ERP via Symfony2 et JQuery. Développement d'une API mobile grâce à différents services AWS (Api Gateway, Lambda, DynamoDB, SNS) et NodeJS. Développement d'une solution ETL en micro services PHP."
+    "description": "Développement d'un ERP via Symfony2 et JQuery. Développement d'une API mobile grâce à différents services AWS (Api Gateway, Lambda, DynamoDB, SNS) et Javascript. Développement d'une solution ETL en micro services PHP."
   },
   "position4": {
     "job": "Développeur Web",
