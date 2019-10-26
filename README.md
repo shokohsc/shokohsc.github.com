@@ -12,6 +12,7 @@
  - Unix/OSX/Windows
  - Javascript
  - Nginx
+ - Ansible
 
 ## Expérience
 
