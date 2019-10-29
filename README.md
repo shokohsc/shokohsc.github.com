@@ -13,6 +13,7 @@
  - Javascript
  - Nginx
  - Ansible
+ - Terraform
 
 ## Expérience
 
