@@ -17,9 +17,15 @@
     "framework": "Frameworks | SDK | Libraries",
     "server": "Servers | Tools"
   },
+  "position8": {
+    "job": "Devops",
+    "time": "July 2019 to October 2019",
+    "company": "Prevision",
+    "description": "Ansible provision playbooks, deployment Jenkins pipelines, Api routes NodeJS backend service, Dockerfiles, Vault and OpenVPN server installation."
+  },
   "position7": {
     "job": "Backend Developer",
-    "time": "September 2017",
+    "time": "September 2017 to May 2019",
     "company": "Gamestream",
     "description": "Symfony3 ERP solution development. Development, staging & production environments setup with Docker."
   },
